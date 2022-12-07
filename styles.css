@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* background: rgb(2,0,36); */
+  
+}
+
+html {
+  font-family: Poppins, Helvetica, sans-serif;
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 57%, rgba(0,212,255,1) 100%);
+}
+
+#canvas1 {
+  width: 900px;
+  height: 600px;
+}
+
+#animationDescription {
+    font-size: xx-large;
+    font-weight: bold;
+    width: 100px;
+    justify-content: center;
+
+}
